@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Current: web development and sysadmin for @hostzentrum<br>🤝 management and sysadmin for @cribemc.de<br>🌱 I’m currently learning new API stuff
+🔭 Current: web development and sysadmin for @hostzentrum<br>🤝 management and sysadmin for @cribemc.de<br>🌱 I’m currently learning new stuff
 
 
 # 💻 Tech Stack:
